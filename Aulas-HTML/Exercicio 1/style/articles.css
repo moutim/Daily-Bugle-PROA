@@ -1,0 +1,30 @@
+.container-materia {
+    width: 50%;
+    margin: auto;
+    /* text-align: center; */
+}
+
+.container-materia article {
+    padding: 50px;
+    border-left: .5px solid rgba(0, 0, 0, 0.3);
+    border-right: .5px solid rgba(0, 0, 0, 0.3);
+}
+
+.container-materia img {
+    margin: auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.container-materia h1 {
+    font-size: 40px;
+}
+
+.container-materia p {
+    margin: 20px 0;
+    font-size: 15px;
+}
+
+.container-materia article div {
+    text-align: center;
+}
