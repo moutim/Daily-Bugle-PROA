@@ -16,10 +16,11 @@
 }
 
 .container-filmes section article {
+    text-align: center;
     width: 30%;
     margin: 10px;
-    border-radius: 15px;
-    border: .5px solid rgba(0, 0, 0, 0.15);
+    /* border-radius: 15px; */
+    /* border: .5px solid rgba(0, 0, 0, 0.15); */
     padding: 15px;
 }
 
@@ -28,6 +29,7 @@
 }
 
 .container-filmes section article p {
+    text-align: left;
     font-size: 15px;
 }
 
