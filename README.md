@@ -1,16 +1,18 @@
-# Portal de Notícias
+# Daily Bugle - Portal de Notícias 📰🎬🎮📚
 
-Portal de notícias Daily Bugle para mostrar artigos sobre filmes, jogos, séries e livros.
+Bem-vindo ao Daily Bugle, o seu portal de notícias definitivo para ficar por dentro do mundo dos filmes, jogos, séries e livros.
 
+## Sobre o Projeto
 
+O Daily Bugle é um portal de notícias que oferece uma variedade de artigos informativos sobre os últimos lançamentos, atualizações e novidades no universo do entretenimento. Seja você fã de filmes, jogos, séries ou livros, o Daily Bugle é o seu destino único para se manter informado.
 
-## Linguagens usadas
-* HTML
-* CSS
+## Linguagens Utilizadas
 
+- HTML
+- CSS
 
-## Deploy da aplicação
-[Deploy feito pelo GitHub Pages](https://moutim.github.io/Daily-Bugle-PROA/index.html)
+## Deploy da Aplicação
 
-![preview.png](./preview.png)
+Explore o Daily Bugle agora mesmo! [Clique aqui para acessar o portal](https://moutim.github.io/Daily-Bugle-PROA/index.html)
 
+![Preview](./preview.png)
